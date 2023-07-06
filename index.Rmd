@@ -5,6 +5,10 @@ description: |
 site: distill::distill_website
 ---
 
+# Calculator Helps
+
+[Descriptive Statistics with a TI-83/84](https://shiny.stt.msu.edu/fairbour/Files/CalcHelps-DescrStats84.pdf)
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
